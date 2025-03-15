@@ -4,8 +4,8 @@
 The "End to End Supply Chain Dashboard" project aims to provide a comprehensive visualization of supply chain operations using Power BI. This dashboard enables businesses to monitor key metrics related to procurement, inventory, manufacturing, logistics, and supplier performance, facilitating data-driven decision-making.
 
 ![Dashboard](https://github.com/maneeshmm/End-to-End-Supply-Chain-Dashboard-Power-BI/blob/main/Dashboard.png)
-![Supplier]([https://raw.githubusercontent.com/YourUsername/YourRepo/main/Supplier.png](https://github.com/maneeshmm/End-to-End-Supply-Chain-Dashboard-Power-BI/blob/main/Supply%20chain%20data.csv))
-![Product]([https://raw.githubusercontent.com/YourUsername/YourRepo/main/Product.png](https://github.com/maneeshmm/End-to-End-Supply-Chain-Dashboard-Power-BI/blob/main/Product.png))
+![Supplier](https://github.com/maneeshmm/End-to-End-Supply-Chain-Dashboard-Power-BI/blob/main/Supply%20chain%20data.csv)
+![Product](https://github.com/maneeshmm/End-to-End-Supply-Chain-Dashboard-Power-BI/blob/main/Product.png)
 
 ## 2. Objective
 The objective of this project is to develop an interactive dashboard that provides real-time insights into supply chain performance, including:
